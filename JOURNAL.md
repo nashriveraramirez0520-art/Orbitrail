@@ -91,13 +91,7 @@ I inspected the ramp-to-housing transition using a section view and an 8 mm refe
 
 The session reinforced how much mechanical design depends on assembly details. Modeling the main shapes was only part of the work; fastener access, clearances, print orientation, and smooth transitions all required additional decisions. Next, I need to finish the inlet mounting, develop the outlet and return tracks, and eventually test a printed section of the screw elevator. The CAD checks help identify geometric problems, but they do not yet confirm that the mechanism will lift marbles reliably.
 
-![Journal 2 Image 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2K3rwu1M2vVGSaAEvJqXi6CWzsonZ8D/3579159e15f0f380e67d5b1e869a021a358eeaf6c5818a5d1ece0f0a09946890.jpg)
-
-![Journal 2 Image 2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2K3rwu1M2vVGSaAEvJqXi6CWzsonZ8D/69b0d625fa06113b6acff8cdb20f75a4b44fedc4020d9a4d1767377c821ad767.jpg)
-
 ![Journal 2 Image 3](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2K3rwu1M2vVGSaAEvJqXi6CWzsonZ8D/5e8ce138e54b8a3ecb199fc87f5840d97bb9d69969061c951e9477dbf63c29fd.jpg)
-
-![Journal 2 Image 4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2K3rwu1M2vVGSaAEvJqXi6CWzsonZ8D/6c67b0d9664f9d7fa0916e5468a6c02f2cf3c453bbdfad6ae6ec6e82983316d0.jpg)
 
 ![Journal 2 Image 5](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/y2K3rwu1M2vVGSaAEvJqXi6CWzsonZ8D/25052cfc138c5a3fce73e079d5acd58d8998b6ca456e214fd96decda4fc3ad97.jpg)
 
