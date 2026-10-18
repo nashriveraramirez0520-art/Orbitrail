@@ -27,6 +27,32 @@ The crank supplies the energy for lifting; gravity powers the return tracks. Rel
 - Shared funnel connected to the existing inlet.
 - Mounting feet, fastener access, and rounded support junctions.
 
+## Design gallery
+
+### Return routes and supports
+
+![Rear view showing both return tracks and their mounting supports](images/rear-view.png)
+
+The two curved return routes wrap around the elevator and converge at the shared funnel. Separate mounting feet support the channels.
+
+### Outlet and rocker
+
+![Close-up of the outlet chute, curved transition, drop guide, and rocker frame](images/rocker-outlet.png)
+
+The outlet channel leads through the curved transition and drop guide toward the rocker. The rocker pivots inside a supported frame between the two return routes.
+
+### Funnel and inlet connection
+
+![Shared funnel and the ramp connecting it to the elevator inlet](images/funnel-inlet.png)
+
+Both return routes feed the funnel. Its central outlet connects to the existing inlet ramp, which directs marbles back into the screw housing.
+
+### Screw elevator section
+
+![Section view exposing the screw, housing, shaft supports, and gear drive](images/screw-section.png)
+
+This section exposes the screw flights inside the stationary housing and the shaft support arrangement. It is a geometry inspection view; marble motion has not yet been physically tested.
+
 ## Design specifications
 
 | Feature | CAD design |
@@ -63,12 +89,13 @@ Read the [development journal](JOURNAL.md) for the recorded design sessions.
 
 [Open the Onshape document](https://cad.onshape.com/documents/9d7366e6ecd3c485dafbc508/w/f743539e3379975558bc69c6/e/57d9ba763c1f60c505f6e92c)
 
-The STEP export is not included in this repository yet. The planned location is `cad/Orbitrail.step`. Import it into a CAD application with millimeter units to inspect the solids. A STEP export contains geometry; it does not preserve the original Onshape feature history or provide a motion simulation.
+[Download the complete STEP model](cad/Orbitrail.step). Import it into a CAD application with millimeter units to inspect the solids. A STEP export contains geometry; it does not preserve the original Onshape feature history or provide a motion simulation.
 
 For printing, export the required parts individually as STL or 3MF after choosing orientations and reviewing supports, tolerances, and assembly access. Reference marbles and hardware-clearance bodies are inspection aids, not parts to print.
 
 | Repository file | Purpose |
 | --- | --- |
+| [cad/Orbitrail.step](cad/Orbitrail.step) | Complete CAD geometry export |
 | [README.md](README.md) | Project overview and current status |
 | [JOURNAL.md](JOURNAL.md) | Development journal mirrored from Half Life |
 | [BOM.csv](BOM.csv) | Bill of materials template; quantities and hardware selection still need completion |
