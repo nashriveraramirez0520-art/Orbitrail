@@ -85,6 +85,10 @@ Several revisions shaped the final design:
 
 Read the [development journal](JOURNAL.md) for the recorded design sessions.
 
+## Bill of materials
+
+See the **[bill of materials](BOM.md)** for the printed-part inventory, provisional PLA allowance, hardware requirements and funding status. No funding was requested; final hardware quantities and slicing consumption still need confirmation.
+
 ## CAD and fabrication files
 
 [Open the Onshape document](https://cad.onshape.com/documents/9d7366e6ecd3c485dafbc508/w/f743539e3379975558bc69c6/e/57d9ba763c1f60c505f6e92c)
@@ -99,7 +103,8 @@ Download the **[17 individual STL files](cad/stl/)** and read the **[printing no
 | [cad/stl/](cad/stl/) | 17 individual STL parts with printing notes and mesh checks |
 | [README.md](README.md) | Project overview and current status |
 | [JOURNAL.md](JOURNAL.md) | Development journal mirrored from Half Life |
-| [BOM.csv](BOM.csv) | Bill of materials template; quantities and hardware selection still need completion |
+| [BOM.md](BOM.md) | Materials, 17-part printed inventory, PLA allowance and funding status |
+| [BOM.csv](BOM.csv) | Material requirements; final hardware selection and supplier costs pending |
 | [images/orbitrail-final.png](images/orbitrail-final.png) | Final CAD overview |
 
 ## Onshape Link:

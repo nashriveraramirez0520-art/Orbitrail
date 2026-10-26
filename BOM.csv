@@ -1,2 +1,6 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+PLA filament (provisional allowance; grams),500,University printing planned - confirm availability,,,
+M3 machine screws (lengths and quantities pending),TBD,Not selected,,,
+M3 hex nuts (quantity pending),TBD,Not selected,,,
+M3 washers (as required per joint),TBD,Not selected,,,
+8 mm marbles (minimum initial test quantity),1,Not selected,,,
