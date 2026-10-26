@@ -101,6 +101,9 @@ For printing, export the required parts individually as STL or 3MF after choosin
 | [BOM.csv](BOM.csv) | Bill of materials template; quantities and hardware selection still need completion |
 | [images/orbitrail-final.png](images/orbitrail-final.png) | Final CAD overview |
 
+## Onshape Link:
+https://cad.onshape.com/documents/9d7366e6ecd3c485dafbc508/w/f743539e3379975558bc69c6/e/57d9ba763c1f60c505f6e92c?renderMode=0&uiState=6adecd6f78c8b1e25694aa41
+
 ## Validation and next steps
 
 CAD checks included solid validity, STEP export/reimport, sampled marble clearances in the return system, and rocker-to-return-module clearance at selected angles. These are static geometry checks and do not establish reliable marble motion.
