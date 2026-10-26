@@ -91,11 +91,12 @@ Read the [development journal](JOURNAL.md) for the recorded design sessions.
 
 [Download the complete STEP model](cad/Orbitrail.step). Import it into a CAD application with millimeter units to inspect the solids. A STEP export contains geometry; it does not preserve the original Onshape feature history or provide a motion simulation.
 
-For printing, export the required parts individually as STL or 3MF after choosing orientations and reviewing supports, tolerances, and assembly access. Reference marbles and hardware-clearance bodies are inspection aids, not parts to print.
+Download the **[17 individual STL files](cad/stl/)** and read the **[printing notes and part list](cad/stl/README.md)**. The meshes use millimeter dimensions and are centered separately for slicing. Select print orientations and review supports, tolerances, and assembly access before printing. The return tracks and funnel are one connected source solid and are exported together. Reference marbles, curves, and hardware-clearance bodies are excluded. These exports have passed geometry checks but have not been sliced or physically tested.
 
 | Repository file | Purpose |
 | --- | --- |
 | [cad/Orbitrail.step](cad/Orbitrail.step) | Complete CAD geometry export |
+| [cad/stl/](cad/stl/) | 17 individual STL parts with printing notes and mesh checks |
 | [README.md](README.md) | Project overview and current status |
 | [JOURNAL.md](JOURNAL.md) | Development journal mirrored from Half Life |
 | [BOM.csv](BOM.csv) | Bill of materials template; quantities and hardware selection still need completion |

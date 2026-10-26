@@ -1,0 +1,321 @@
+{
+  "units": "mm",
+  "linear_tolerance_mm": 0.02,
+  "angular_tolerance_rad": 0.1,
+  "orientation": "STEP orientation retained; XY centered and minimum Z set to zero. Not a printing orientation recommendation.",
+  "excluded": [
+    "Curve 1",
+    "Curve 4",
+    "M3 Washer Reference",
+    "Marble  - 08",
+    "Screw Head Envelope - Reference"
+  ],
+  "parts": [
+    {
+      "source_name": "Lift Screw",
+      "file": "lift-screw.stl",
+      "size_mm": [
+        98.117,
+        26.03,
+        134.903
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -7.340246531872918,
+        -0.0,
+        -6.902436016664839
+      ],
+      "triangles": 41898,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Rocker Frame",
+      "file": "rocker-frame.stl",
+      "size_mm": [
+        14.6,
+        30.0,
+        73.0
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -53.637044220104805,
+        30.0,
+        1e-07
+      ],
+      "triangles": 2694,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Crank Retainer",
+      "file": "crank-retainer.stl",
+      "size_mm": [
+        7.414,
+        8.0,
+        5.817
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -63.047791633748744,
+        -0.0,
+        -115.50570560054082
+      ],
+      "triangles": 1008,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Rocker",
+      "file": "rocker.stl",
+      "size_mm": [
+        10.0,
+        24.0,
+        12.5
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -53.6370442201048,
+        30.0,
+        -57.0
+      ],
+      "triangles": 680,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Lower Cap",
+      "file": "lower-cap.stl",
+      "size_mm": [
+        35.799,
+        50.0,
+        29.659
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        34.71321178182445,
+        -0.0,
+        -0.5798639242361716
+      ],
+      "triangles": 4056,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Lower Pedestal",
+      "file": "lower-pedestal.stl",
+      "size_mm": [
+        30.188,
+        60.0,
+        21.229
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        38.217382107987646,
+        -0.0,
+        2.7781897705633673e-05
+      ],
+      "triangles": 3902,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Base",
+      "file": "base.stl",
+      "size_mm": [
+        180.0,
+        180.0,
+        4.0
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -0.0,
+        -0.0,
+        4.000000100000001
+      ],
+      "triangles": 4904,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Lift Gear",
+      "file": "lift-gear.stl",
+      "size_mm": [
+        24.166,
+        26.0,
+        19.009
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -50.176100798130335,
+        4.440892098500626e-15,
+        -127.13970469362945
+      ],
+      "triangles": 3852,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Lift Gear Retainer",
+      "file": "lift-gear-retainer.stl",
+      "size_mm": [
+        11.264,
+        12.0,
+        8.931
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -52.3270124344468,
+        -8.881784197001252e-16,
+        -135.25049996953157
+      ],
+      "triangles": 1512,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Rocker Pin Cap",
+      "file": "rocker-pin-cap.stl",
+      "size_mm": [
+        4.1,
+        8.0,
+        8.0
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -43.9870442201048,
+        30.0,
+        -56.9999999
+      ],
+      "triangles": 1512,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Crank Gaer - 18T",
+      "file": "crank-gear-18t.stl",
+      "size_mm": [
+        19.09,
+        20.0,
+        18.868
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -67.37829372819897,
+        9.681144774731365e-14,
+        -116.87180811652833
+      ],
+      "triangles": 5124,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Upper Cap",
+      "file": "upper-cap.stl",
+      "size_mm": [
+        44.892,
+        50.0,
+        29.659
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -49.560461774797986,
+        -0.0,
+        -114.44199808040617
+      ],
+      "triangles": 5054,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Smooth_Stairs_Curves_Funnel",
+      "file": "smooth-stairs-curves-funnel.stl",
+      "size_mm": [
+        178.214,
+        150.834,
+        67.0
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        23.607612200550392,
+        16.416758247896624,
+        1.0000025500435096e-07
+      ],
+      "triangles": 130020,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Crank Arm",
+      "file": "crank-arm.stl",
+      "size_mm": [
+        30.965,
+        10.0,
+        34.673
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -63.161445756272755,
+        0.6019059729239196,
+        -128.6938836082448
+      ],
+      "triangles": 10212,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Lift Housing",
+      "file": "lift-housing.stl",
+      "size_mm": [
+        105.694,
+        50.0,
+        132.462
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -5.15035054457325,
+        -0.0,
+        -6.109565136558786
+      ],
+      "triangles": 8968,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Drop Guide",
+      "file": "drop-guide.stl",
+      "size_mm": [
+        43.636,
+        52.01,
+        105.628
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -63.829260837256214,
+        11.005193607114919,
+        1e-07
+      ],
+      "triangles": 12922,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    },
+    {
+      "source_name": "Rocker Pin",
+      "file": "rocker-pin.stl",
+      "size_mm": [
+        19.0,
+        8.0,
+        8.0
+      ],
+      "solid_valid": true,
+      "translation_mm": [
+        -53.4370442201048,
+        30.0,
+        -56.9999999
+      ],
+      "triangles": 1508,
+      "closed_edge_check": true,
+      "degenerate_triangles": 0
+    }
+  ]
+}
